@@ -1,6 +1,6 @@
 # Getting Started
 
-Rajal Kuhn's website
+My Website
 
 ## Available Scripts
 
