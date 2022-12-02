@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajal-website/static/css/main.2143830b.css",
+    "main.js": "/rajal-website/static/js/main.f15fc6dd.js",
+    "static/js/787.b03652cf.chunk.js": "/rajal-website/static/js/787.b03652cf.chunk.js",
+    "index.html": "/rajal-website/index.html",
+    "main.2143830b.css.map": "/rajal-website/static/css/main.2143830b.css.map",
+    "main.f15fc6dd.js.map": "/rajal-website/static/js/main.f15fc6dd.js.map",
+    "787.b03652cf.chunk.js.map": "/rajal-website/static/js/787.b03652cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2143830b.css",
+    "static/js/main.f15fc6dd.js"
+  ]
+}
